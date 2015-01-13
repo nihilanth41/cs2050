@@ -1,0 +1,17 @@
+
+Beginning Submission                   
+Preparing: zrrm74_lab10.tgz for submission
+In-Progress: Submitting Assignment
+file size sent: 2084 (bytes) and file size stored on server: 2084 (bytes)
+file transfer successful from client to submission server
+Submission Complete
+
+
+Submission Information
+
+Name of file: zrrm74_lab10.tgz
+Size in (bytes): 2084
+Class/Section: CS2050_LAB-E
+Lab Key: LAB10
+Submission Receipt: a65e5b927860055d9129c7d9ee06f271
+

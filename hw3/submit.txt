@@ -1,0 +1,17 @@
+
+Beginning Submission                   
+Preparing: zrrm74_hw3.tgz for submission
+In-Progress: Submitting Assignment
+file size sent: 3838 (bytes) and file size stored on server: 3838 (bytes)
+file transfer successful from client to submission server
+Submission Complete
+
+
+Submission Information
+
+Name of file: zrrm74_hw3.tgz
+Size in (bytes): 3838
+Class/Section: CS2050_HW-E
+Lab Key: HW3
+Submission Receipt: 0dd36f5ae4e7f79a433892ffad802683
+

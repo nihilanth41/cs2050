@@ -1,0 +1,5 @@
+WARNING to whoever grades this, it will loop forever on to_postfix() so you may want to breakpoint there and step through if you want to run it. 
+
+FWIW I had a lot of trouble with the to_postfix() function and I am hoping we can go over it or at least see an example. 
+
+Also I wasn't sure if we were supposed to re-implement main() and eval() or just use the ones given. 
